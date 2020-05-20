@@ -8,7 +8,7 @@ Application enables add own movie to database and display all records additional
 
 2.Do prerequisites.
 
-3.Open in your IDE.  
+3.Open project in your IDE.  
 
 4.Run the project.
 
