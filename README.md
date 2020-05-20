@@ -5,8 +5,11 @@ Application enables add own movie to database and display all records additional
 ## Getting Started
 
 1.Clone the repository.
-2.Do prerequisites
+
+2.Do prerequisites.
+
 3.Open in your IDE.  
+
 4.Run the project.
 
 ### Prerequisites
